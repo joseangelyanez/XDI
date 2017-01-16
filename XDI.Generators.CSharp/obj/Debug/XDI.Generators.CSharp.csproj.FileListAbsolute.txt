@@ -1,0 +1,18 @@
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\XDI.CSharp.dll
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\XDI.CSharp.pdb
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\XDI.Core.dll
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\XDI.Core.pdb
+C:\XDI\XDI.Light\XDI.Generators.CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\XDI\XDI.Light\XDI.Generators.CSharp\obj\Debug\XDI.Generators.CSharp.csprojResolveAssemblyReference.cache
+C:\XDI\XDI.Light\XDI.Generators.CSharp\obj\Debug\XDI.CSharp.dll
+C:\XDI\XDI.Light\XDI.Generators.CSharp\obj\Debug\XDI.CSharp.pdb
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\XDI.CSharp.dll
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\XDI.CSharp.pdb
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\XDI.Core.dll
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\XDI.Core.pdb
+C:\XDI\XDI - Project\XDI.Generators.CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\XDI\XDI - Project\XDI.Generators.CSharp\obj\Debug\XDI.Generators.CSharp.csprojResolveAssemblyReference.cache
+C:\XDI\XDI - Project\XDI.Generators.CSharp\obj\Debug\XDI.CSharp.dll
+C:\XDI\XDI - Project\XDI.Generators.CSharp\obj\Debug\XDI.CSharp.pdb

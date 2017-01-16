@@ -1,0 +1,28 @@
+C:\XDI\XDI.Light\XDI\obj\Debug\XDI.csprojResolveAssemblyReference.cache
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.exe.config
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.exe
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.pdb
+C:\XDI\XDI.Light\XDI\bin\Debug\Newtonsoft.Json.dll
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.Core.dll
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.Providers.dll
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.CSharp.dll
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.Core.pdb
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.Providers.pdb
+C:\XDI\XDI.Light\XDI\bin\Debug\Newtonsoft.Json.xml
+C:\XDI\XDI.Light\XDI\bin\Debug\XDI.CSharp.pdb
+C:\XDI\XDI.Light\XDI\obj\Debug\XDI.exe
+C:\XDI\XDI.Light\XDI\obj\Debug\XDI.pdb
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.exe.config
+C:\XDI\XDI - Project\XDI\obj\Debug\XDI.exe
+C:\XDI\XDI - Project\XDI\obj\Debug\XDI.pdb
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.exe
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.pdb
+C:\XDI\XDI - Project\XDI\bin\Debug\Newtonsoft.Json.dll
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.Core.dll
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.Providers.dll
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.CSharp.dll
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.Core.pdb
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.Providers.pdb
+C:\XDI\XDI - Project\XDI\bin\Debug\Newtonsoft.Json.xml
+C:\XDI\XDI - Project\XDI\bin\Debug\XDI.CSharp.pdb
+C:\XDI\XDI - Project\XDI\obj\Debug\XDI.csprojResolveAssemblyReference.cache

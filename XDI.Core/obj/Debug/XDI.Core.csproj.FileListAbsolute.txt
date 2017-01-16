@@ -1,0 +1,7 @@
+C:\XDI\XDI.Light\XDI.Core\bin\Debug\XDI.Core.dll
+C:\XDI\XDI.Light\XDI.Core\bin\Debug\XDI.Core.pdb
+C:\XDI\XDI.Light\XDI.Core\bin\Debug\Newtonsoft.Json.dll
+C:\XDI\XDI.Light\XDI.Core\bin\Debug\Newtonsoft.Json.xml
+C:\XDI\XDI.Light\XDI.Core\obj\Debug\XDI.Core.dll
+C:\XDI\XDI.Light\XDI.Core\obj\Debug\XDI.Core.pdb
+C:\XDI\XDI.Light\XDI.Core\obj\Debug\XDI.Core.csprojResolveAssemblyReference.cache

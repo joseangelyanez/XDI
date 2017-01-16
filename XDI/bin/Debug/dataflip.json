@@ -1,0 +1,73 @@
+{
+	"contexts" :
+	[
+    {
+      "connectionString": "Server=198.71.226.6;Database=zunwave_db1;User Id=swoepc12233;Password=Nf_zo120",
+      "namespace": "Zunwave.Data",
+      "name": "Context",
+      "output": "Context.cs",
+      "typeScript": { "output" : "../app/dataflip.typings.ts" },
+      "angular": { "htmlBindings" :  "../app/htmlbindings.html" },
+      "sprocs": [
+        {
+          "comments": "Gets all the activities",
+          "method": "GetActivities",
+          "name": "GetActivities",
+
+          "testParams": [
+            { "@Name": "Hello : text" }
+          ]
+        },
+        {
+          "name": "GetBooks",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "GetArticles",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "GetCodeProjects",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "CreateCodeProject"
+        },
+        {
+          "name": "CreateBook"
+        },
+        {
+          "name": "CreateArticle"
+        },
+        {
+          "name": "GetSocialNetworks",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "GetTechnologies",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "GetAppUser",
+          "testParams": [
+            { "@AppUserId": "1 : int" }
+          ]
+        },
+        {
+          "name": "CreateAppUser",
+          "return" : "int"
+        }
+      ]
+    }
+	]
+}
